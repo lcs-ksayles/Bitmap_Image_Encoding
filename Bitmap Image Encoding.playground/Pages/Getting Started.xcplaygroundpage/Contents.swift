@@ -15,7 +15,8 @@ import PlaygroundSupport
  */
 let encodedBitmap = getEncodedBitmapString()
 
-// I notice that...
+// I notice that...the characters are always 1's and 0's
+//I notice that...the value/order of the numbers change each time
 /*:
  Now, **remember to commit and push your work**.
  */
