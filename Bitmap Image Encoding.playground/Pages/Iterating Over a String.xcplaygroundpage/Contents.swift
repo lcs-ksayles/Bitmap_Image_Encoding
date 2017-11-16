@@ -33,6 +33,8 @@ for character in encodedBitmap {
 }
 
 // I notice that...
+//The difference compared to our usual for i in stride is that the syntax is different.
+//The similarities I notice 
 /*:
  Now, **remember to commit and push your work**.
  */
