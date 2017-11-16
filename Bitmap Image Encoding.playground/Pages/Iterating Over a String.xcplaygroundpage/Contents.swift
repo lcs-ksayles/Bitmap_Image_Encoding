@@ -32,9 +32,16 @@ for character in encodedBitmap {
     print(character)
 }
 
-// I notice that...
-//The difference compared to our usual for i in stride is that the syntax is different.
-//The similarities I notice 
+// I notice that the syntax for the loop is new.
+
+//I also notice that the loop runs a different number of times each time I run the playground.
+
+//That I'm able to work with each individual character in the string.
+
+
+//The difference compared to our usual for i in stride is that the syntax is different. I noticed that in the originally there is a fixed number of loop. But in this loop, it is determind by the number of 1's and 0's writen in the string.
+
+//The similarities I notice
 /*:
  Now, **remember to commit and push your work**.
  */
